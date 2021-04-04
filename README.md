@@ -1,9 +1,1 @@
-# etc
-
-This repo is a random assortment of files. Made public for some ad hoc reason or another.
-
-## Current contents:
-
-+ `ips` -- A file that can be appended to /etc/hosts to block ads, junk sites, porn, tracking and Google
-	+ Add to /etc/hosts in Linux
-	+ ...or C:\Windows\System32\drivers\etc\hosts
+The 'hosts' file, which is present on all operating systems, can be used to redirect domains or specif URLs to a null IP address, to this end it can be used to 'block' certain websites. The contents of this file should be appended to the hosts file, in order to block thousands of AD pages and Pornography sites.
